@@ -57,11 +57,23 @@
       "id": "7785ad86-eaae-41d9-9d28-4bf6f9e03ca3",
       "role": "user",
       "content": "Commit all staged changes with exactly this commit message, unchanged:\n\nFix the crash when a chat is deleted twice",
-      "status": "pending",
+      "status": "cancelled",
       "model": "gemini-3.8-flash-high",
       "client_type": "gemini-bridge",
       "parent_message_id": null,
       "created_at": "2026-10-07T11:15:23.236Z",
+      "sender": "ios",
+      "is_cancelled": true
+    },
+    {
+      "id": "099d5554-0f5e-4f7a-8e6c-57d8f9039cb2",
+      "role": "user",
+      "content": "Commit all staged changes with exactly this commit message, unchanged:\n\nFix the crash when a chat is deleted twice",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-07T11:16:03.074Z",
       "sender": "ios",
       "is_cancelled": false
     }
